@@ -40,6 +40,7 @@ def sms():
 
 def quotes():
     reasons = [
+            'Funny quote of the hour: When life gives you Questions, Google has answers',
             'Funny quote of the hour: The quickest way to double your money is to fold it in half and put it back in your pocket.',
             'Funny quote of the hour: When Life Gives You Questions, Google has Answers',
             'Funny quote of the hour: If at first you don\'t succeed, call it version 1.0.',
